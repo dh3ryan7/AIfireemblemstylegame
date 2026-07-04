@@ -72,17 +72,9 @@ Stuck on a wall of Generals? Bring a **mage** (hits Res), an **armorslayer** (ef
 
 ---
 
-## The campaign
-Six connected chapters with rising difficulty and every major objective type:
 1. **The Raid on Brookhollow** — *Rout* (tutorial pacing; a safe setup turn, then a bridge fight).
-2. **The Bridge at Aldermill** — *Seize* a gate (chokepoint; talk‑recruit a defector).
-3. **Hold the Vale** — *Defend 6 turns* against waves (two talk‑recruits, village rewards).
-4. **The Long Road** — *Escape/Escort* (get Lyra out, keep the green NPC alive).
-5. **Snowfield Ambush** — *Survive 7 turns* surrounded (recruit a defecting flier).
-6. **The Throne of Valden** — *Seize the throne* (two walls of elites and a final boss).
 
-A real narrative runs throughout — a named lord (Lyra), recruitable allies, a villain arc
-(Varkas & the dark mage Morwen), pre/post‑battle scenes with generated portraits, and an ending.
+
 
 ---
 
